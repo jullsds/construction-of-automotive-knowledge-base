@@ -1,0 +1,2 @@
+# construction-of-automotive-knowledge-base
+这是一个汽车投诉短视频知识抽取与推荐项目中的知识库构建部分，其中包括了爬取的数据以及以此构建的知识库
